@@ -71,3 +71,6 @@ print(f'Average node degree: {data.num_edges / data.num_nodes:.2f}')
 print(f'Contains isolated nodes: {data.has_isolated_nodes()}')
 print(f'Contains self-loops: {data.has_self_loops()}')
 print(f'Is undirected: {data.is_undirected()}')
+
+
+print(data.edge_attr) 
