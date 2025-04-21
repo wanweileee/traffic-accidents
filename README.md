@@ -28,6 +28,10 @@ traffic-accident-hotspots/
 │   │   └── hotspot predictions with US.ipynb  # Model for US Traffic Hotspot predictions
 │   ├── utils/
 │   │   └── load_dataset.ipynb  #  View TAP data
+│   ├── output/ 
+│   │  
+
+
 ```
 
 ## 🌏 Project Summary
