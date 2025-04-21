@@ -204,4 +204,19 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-output/
+# US output directories
+US/output/*
+!US/output/new_york_ny/
+!US/output/oklahoma_city_ok/
+!US/output/los_angeles_ca/
+!US/output/houston_tx/
+!US/output/phoenix_az/
+!US/output/san_antonio_tx/
+!US/output/dallas_tx/
+!US/output/jacksonville_fl/
+!US/output/indianapolis_in/
+!US/output/charlotte_nc/
+
+
+
+
