@@ -58,7 +58,8 @@ def parse_npz(f):
                 coords=coords, cnt_labels=cnt_labels, crash_time=crash_time)
 
 
-dataset = TRAVELDataset('data/TAP-city', 'Dallas_TX')
+dataset = TRAVELDataset('../data/TAP-city', 'Dallas_TX')
+
 
 data = dataset[0]
 print(f'Number of graphs: {len(dataset)}')
